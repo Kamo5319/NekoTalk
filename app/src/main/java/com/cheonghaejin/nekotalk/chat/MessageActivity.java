@@ -284,6 +284,8 @@ public class MessageActivity extends AppCompatActivity {
                 );
 
             }
+
+            // unixTime 가져오기
             long unixTime = (long) comments.get(position).timestamp;
             Date date = new Date(unixTime);
             simpleDateFormat.setTimeZone(TimeZone.getTimeZone("Asia/Seoul"));
