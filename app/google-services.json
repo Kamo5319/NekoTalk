@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809364745895",
+    "firebase_url": "https://nekotalk-7fe6e.firebaseio.com",
+    "project_id": "nekotalk-7fe6e",
+    "storage_bucket": "nekotalk-7fe6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809364745895:android:16e849931a81efe8",
+        "android_client_info": {
+          "package_name": "com.cheonghaejin.nekotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809364745895-jib0g6ksiubo3evg5g7cvuukviva4ajt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cheonghaejin.nekotalk",
+            "certificate_hash": "5c55c4be304e7d9ba2b1aad39dcb5395e30aa63e"
+          }
+        },
+        {
+          "client_id": "809364745895-dq5ttcrv2uis8bl9skgi0pb7s4mfu494.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpgFfbacROxIsM0e_rCL8W99xbAOn2iiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809364745895-dq5ttcrv2uis8bl9skgi0pb7s4mfu494.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
